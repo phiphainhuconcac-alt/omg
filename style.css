@@ -1,6 +1,6 @@
 .box {
   height: 700px;
-  background-image: url(./Bg/gaixinh.jpeg);
+  background-image: url(./Bg/embeiu.png);
   background-repeat: no-repeat;
   /* Ảnh vừa khung hình, có thể bị cắt */
   background-size: cover;
@@ -19,7 +19,7 @@
   overflow: auto;
   /* khi cuộn hết trang của con nó thì không cuộn trang cha */
   overscroll-behavior: contain;
-  background-image: url(./Bg/gaixinh.jpeg);
+  background-image: url(./Bg/embeiu.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
